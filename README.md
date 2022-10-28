@@ -7,3 +7,4 @@ This is a modern text editior with a fun retro look. JATE is a progressive web a
 Just click the Install button in the upper left corner of the page.
 
 ## Link to Web App
+[Live Link](https://cryptic-caverns-09261.herokuapp.com/)
